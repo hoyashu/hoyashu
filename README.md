@@ -24,23 +24,7 @@ Here are some ideas to get you started:
 <br>
   
 ### Stack 🚀
-<!-- html -->
-<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&amp;logo=Html5&amp;logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"/>
-
-<!-- css -->
-
-
-<!-- javascript -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
- 
- <!-- Java -->
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" />
- 
- <!-- Spring -->
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" />
- 
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&amp;logo=Html5&amp;logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" /><br>
  
 <!-- Node
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white" />
