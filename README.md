@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <li>I'm a Web Develover</li>
   <li>I worked mainly as a publisher, and now I am studying Java development.</li>
   <li>Please take care of me "Hello World"🌍</li>
-<ul>
+</ul>
 <br>
   
 ### Stack 🚀
