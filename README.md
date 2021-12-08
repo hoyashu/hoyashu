@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 <ul>
-  <li>I'm a Web Develover<li>
-  <li>I worked mainly as a publisher, and now I am studying Java development.<li>
-  <li>Please take care of me "Hello World"🌍<li>
+  <li>I'm a Web Develover</li>
+  <li>I worked mainly as a publisher, and now I am studying Java development.</li>
+  <li>Please take care of me "Hello World"🌍</li>
 <ul>
 <br>
   
